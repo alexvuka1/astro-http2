@@ -1,0 +1,20 @@
+{
+  "name": "@example/framework-solid",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.1.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@astrojs/solid-js": "^4.0.1",
+    "astro": "^4.4.3",
+    "solid-js": "^1.8.15"
+  }
+}
